@@ -5,4 +5,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="string_names" />
+    <string name="string_quantity" />
+    <string name="string_cost" />
+    <string name="string_totalbalance" />
+    <string name="string_grocerylist" />
+    <string name="string_overallgrocerybalance" />
+    <string name="string_add" />
+    <string name="string_delete" />
 </resources>
